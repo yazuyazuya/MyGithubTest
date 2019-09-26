@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         testTextView.text = "master"
         testTextView2.text = "develop"
+        testTextView3.text = "develop2"
 
     }
 
